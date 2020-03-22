@@ -6,5 +6,6 @@ Many ideas are spinning in my head, which at the moment I do not know how to rea
   <ol>
     <li>Sitebar which smoothly opens and closes at the touch of a button. when opened, the content part is shifted.</li>
     <li>Try Ajax technology, do article navigation.</li>
+    <li>Make work requests through RedBeanPHP</li>
   </ol>
 </div>
